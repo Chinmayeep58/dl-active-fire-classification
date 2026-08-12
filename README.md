@@ -2,6 +2,8 @@
 
 A Streamlit-based application for **active fire source classification using satellite imagery**. The project combines **ESRI RGB imagery** and **Sentinel-2 multispectral data** with deep learning models to classify active fire locations into different source categories.
 
+Project demo link: (https://huggingface.co/spaces/chinmayeep2385/fire_classification_3)
+
 ## 📌 Project Overview
 
 The application provides an end-to-end workflow for:
